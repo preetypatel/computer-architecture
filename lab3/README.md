@@ -10,12 +10,13 @@ Encoder:   An encoder converts 2n input lines into an n-bit binary code. Only on
           A priority encoder handles the case where multiple inputs are high simultaneously by
           giving priority to the highest-numbered active input.
 📊 Encoder Truth Table (4-to-2)
-Input (I3 I2 I1 I0)	Output (Y1 Y0)
-0001	00
-0010	01
-0100	10
-1000	11
-
+| I3 I2 I1 I0 |Y1 Y0 |
+|:-----:      |:------:|
+| 0001        | 00   |
+| 0010        | 01   |
+| 0100        | 10   |
+| 1000        | 11   |
+	
 Decoder: A decoder converts an n-bit binary input into one of 2n output lines. A 2-to-4 decoder has
           a 2-bit input (A1A0) and 4 output lines (Y0–Y3). Exactly one output is HIGH at a time.
 
