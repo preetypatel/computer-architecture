@@ -1,0 +1,7 @@
+v 4
+file . "DECODER_TB.vhd" "bdffd36232fb553d56f50790153a6b1c8ef23d92" "20260528151250.604":
+  entity decoder_tb at 1( 0) + 0 on 13;
+  architecture simulation of decoder_tb at 7( 88) + 0 on 14;
+file . "DECODER_2TO4.vhd" "997aadb1b477f53114ecb4efed6d0456e30b3225" "20260528151238.072":
+  entity decoder_2to4 at 1( 0) + 0 on 11;
+  architecture behavioral of decoder_2to4 at 10( 253) + 0 on 12;
