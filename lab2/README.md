@@ -19,10 +19,12 @@ XNOR xnor Y = A ⊕ B
 
 **Truth table**:
 | A | B | AND | OR | NOT A | NAND | NOR | XOR |
+| - | - | --- | -- | ----- | ---- | --- | --- |
 | 0 | 0 | 0   | 0  | 1     | 1    | 1   | 0   |
 | 0 | 1 | 0   | 1  | 1     | 1    | 0   | 1   |
 | 1 | 0 | 0   | 1  | 0     | 1    | 0   | 1   |
 | 1 | 1 | 1   | 1  | 0     | 0    | 0   | 0   |
+
 
 **Simulation Tool**:
 GHDL (VHDL simulator)
