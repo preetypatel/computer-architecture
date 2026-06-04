@@ -1,7 +1,9 @@
 **Lab 4: VHDL Code for Combinational Circuits (MUX and DEMUX)**
 
 **Objective:**
+
 • To design and simulate a 4-to-1 Multiplexer (MUX) in VHDL.
+
 • To design and simulate a 1-to-4 Demultiplexer (DEMUX) in VHDL.
 
 **Theory:**
@@ -30,15 +32,23 @@
 
 **Applications:**
 **1.Multiplexer:**
+
   a.Data routing systems
+  
   b.Communication networks
+  
   c.Digital signal processing
+  
   d.Resource sharing in digital systems
 
 **2.Demultiplexer:**
+
   a.Data distribution systems
+  
   b.Memory addressing
+  
   c.Communication receivers
+  
   d.Signal routing applications
 
 **Observation:**
