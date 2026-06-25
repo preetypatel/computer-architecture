@@ -56,5 +56,9 @@
       The Demultiplexer successfully routed the input signal to the selected output line.
       Simulation waveforms confirmed the proper operation of both combinational circuits.
 
+**output**
+![image](mux.png)
+![image](demux.png)
+
 **Conclusion:**
 The experiment was successfully completed. VHDL code for a 4-to-1 Multiplexer and a 1-to-4 Demultiplexer was designed, implemented, and simulated. The obtained outputs matched the theoretical truth tables, confirming the correct operation of the combinational circuits. This lab enhanced understanding of digital design using VHDL and the practical implementation of MUX and DEMUX circuits.
