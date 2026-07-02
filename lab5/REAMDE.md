@@ -2,14 +2,20 @@
 
 **Objective**
 • To design and simulate a 2-bit magnitude comparator in VHDL.
+
 • To understand how comparison operations are implemented in hardware.
 
 **Theory**
 A magnitude comparator compares two binary numbers and produces three output signals:
+
 • EQ (Equal): HIGH when A = B
+
 • GT (Greater Than): HIGH when A > B
+
 • LT (Less Than): HIGH when A < B
+
 For a 2-bit comparator with inputs A = A1A0 and B = B1B0:
+
 EQ = A1 ⊕ B1 · A0 ⊕ B0
 GT = A1B1 + A1 ⊕ B1 · A0B0
 LT = A1B1 + A1 ⊕ B1 · A0B0
