@@ -258,7 +258,7 @@ The waveform should demonstrate the following behavior:
 
 ---
 # output
-![image](counter_.png)
+![image](counter_tb.png)
 
 
 # Conclusion
