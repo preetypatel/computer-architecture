@@ -216,7 +216,7 @@ README.md
 ---
 
 ## output
-[!image](lab7.png)
+![image](lab7.png)
 
 
 
