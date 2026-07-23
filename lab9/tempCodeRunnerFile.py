@@ -1,0 +1,1 @@
+multiplier_dec = getInput (" Multiplier ")
